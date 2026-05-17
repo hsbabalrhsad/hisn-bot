@@ -1,0 +1,1 @@
+python-telegram-bot==20.7<br>aiohttp==3.9.1<br>beautifulsoup4==4.12.3<br>dnspython==2.5.0
